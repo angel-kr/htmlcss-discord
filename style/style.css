@@ -12,6 +12,10 @@ header div.header-box div.top-box p {
     color: white;
 }
 
+header div.header-box div.top-box {
+    display: flex;
+}
+
 h1 {
     color: white;
 }
