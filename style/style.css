@@ -3,3 +3,11 @@
     padding: 0px;
     box-sizing: border-box;
 }
+
+header div.header-box {
+    background-image: url("../img/jumbo.png");
+}
+
+h1 {
+    color: white;
+}
