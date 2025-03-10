@@ -8,6 +8,10 @@ header div.header-box {
     background-image: url("../img/jumbo.png");
 }
 
+header div.header-box div.top-box p {
+    color: white;
+}
+
 h1 {
     color: white;
 }
